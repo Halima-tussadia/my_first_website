@@ -302,7 +302,7 @@ border: none!important;
 .quality .row  .rightcol{
     background-image: url(../img/bycycle.jpg);
     min-height: 400px;
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
@@ -393,6 +393,11 @@ border: none!important;
 
     .collectiontitle .collection .collectionrow .subcollectionrow    .specialdiv1 {
         border-right: none;
+    }
+
+    .ourservices .row .col .card{
+        width: 75%!important;
+ 
     }
 }
 
