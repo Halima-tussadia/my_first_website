@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Quicksand:wght@700&display=swap');
+
 *{
     /* font-family: 'Open Sans', sans-serif; */
     margin: 0;
@@ -79,7 +81,8 @@ height: 250px;
 }
 
 .undercarousel h2{
-    font-family: "fasthand";
+    
+    font-family: 'Fasthand', cursive;
     letter-spacing: 5px;
     font-weight: bolder;
 }
@@ -156,7 +159,7 @@ padding-top: 15px;
 }
 
 .bouqet h1{
-    font-family: "fasthand";
+    font-family: 'Fasthand', cursive;
     letter-spacing: 5px;
     font-weight: bolder;
     text-shadow: 2px 2px  rgb(141, 59, 86);
@@ -182,7 +185,7 @@ padding-top: 15px;
 }
 
 .bouqet h3{
-    font-family: "fasthand";
+    font-family: 'Fasthand', cursive;
     letter-spacing: 5px;
     font-weight: bolder;
     color: rgb(141, 59, 86);
@@ -199,7 +202,7 @@ padding-top: 15px;
 }
 
 .ourservices .serviceTitle h1{
-    font-family: "fasthand";
+    font-family: 'Fasthand', cursive;
     color: #f10a4b;
     letter-spacing: 5px;
     font-weight: bolder;
@@ -271,7 +274,7 @@ border: none!important;
 .quality .row .leftcol h2{
     padding-top: 10px;
     color: #f10a4b;
-    font-family: "fasthand";
+    font-family: 'Fasthand', cursive;
     font-weight: bolder;
     letter-spacing: 4px;
     text-shadow: 2px 2px 10px  rgb(141, 59, 86);
@@ -350,7 +353,7 @@ border: none!important;
 
 .footer h2,i{
     color: white;
-    font-family: "fasthand";
+    font-family: 'Fasthand', cursive;
     font-weight: bolder;
     letter-spacing: 4px;
     text-shadow: 2px 2px 10px  rgb(141, 59, 86);
